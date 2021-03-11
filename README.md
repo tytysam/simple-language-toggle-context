@@ -1,6 +1,6 @@
 # Language Toggle via React Context | Simple Web App
 
-Simple React-based app that lets a user change the language of the page by clicking on the flags of different countries. By leveraging useContext,
+Simple React-based app that lets a user change the language of the content on the page by clicking on the flags of different countries. By leveraging the useContext hook, I'm able to create common data that can be accessed throughout the component hierarchy without passing props down to each level manually.
 
 I built this simple app in order to practice my understanding of the following topics:
 
