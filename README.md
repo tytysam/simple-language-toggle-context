@@ -2,6 +2,12 @@
 
 Simple React-based app that lets a user change the language of the content on the page by clicking on the flags of different countries. By leveraging the useContext hook, I'm able to create common data that can be accessed throughout the component hierarchy without passing props down to each level manually.
 
+All said-and-done, this simple app uses Context to ~replicate the functionality of Redux, including:
+
+- Distributing data to various components
+- Centralized data in a store
+- Provides a mechanism for changing data in the store
+
 I built this simple app in order to practice my understanding of the following topics:
 
 - The Context System
